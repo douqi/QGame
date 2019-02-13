@@ -1,0 +1,17 @@
+{
+  "ver": "1.1.0",
+  "uuid": "130b9eca-209f-4c0f-9d60-0857d052dbc9",
+  "maxWidth": 512,
+  "maxHeight": 256,
+  "padding": 2,
+  "allowRotation": true,
+  "forceSquared": false,
+  "powerOfTwo": false,
+  "heuristices": "ContactPointRule",
+  "format": "png",
+  "quality": 80,
+  "contourBleed": false,
+  "paddingBleed": false,
+  "filterUnused": false,
+  "subMetas": {}
+}
